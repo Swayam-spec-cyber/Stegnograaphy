@@ -1,4 +1,4 @@
-# Stegnograaphy
+# Stegnography
 Hiding Text Under Image
 📌 Project Overview
 This project focuses on hiding secret messages within images using high-capacity steganography techniques. It modifies the Least Significant Bits (LSB) of pixel values to embed messages securely while maintaining image quality. The system ensures secure data transmission and privacy protection against unauthorized access.
